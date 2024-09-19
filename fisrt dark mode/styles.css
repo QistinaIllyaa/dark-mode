@@ -89,3 +89,9 @@
 .menu-icon:hover .menu-icon__line-right {
 	width: 30px;
 }
+
+.button {
+    padding: auto;
+    font: 16px;
+    cursor: pointer;
+}
